@@ -1,0 +1,28 @@
+Thanks for downloading this package.
+This is a FREE sample package taken from the Village Exteriors Kit contents.
+Combining Interiors & Exteriors:
+
+1. Download and install the Blacksmith’s Forge package.
+(Interiors Example package)
+2. Download and install the Blacksmith package to the same project.(Exteriors Example package)
+3. Go to http://www.3dforge.co.za and follow the instructions to download the Thunder Hammer scene file and install again in the same project space.
+4. Open and enjoy the ThunderHammer_Interiors_PLUS_Exteriors scene.
+Please could you rate and possible review the package, it really assist others in making informed purchases when spending there hard earned money :)
+
+Village Exteriors Kit:
+There is a long FREE Update road map on the Unity Forum
+Head on over and add your suggestions, they might make there way in future updates.
+http://forum.unity3d.com/threads/3dforge-exteriors.316736/
+and be sure to check regularry for notification of extra FREE content that has been added.
+
+Enjoy
+Cobus
+info@3dforge.co.za
+
+Follow me on
+Twitter      >>> @3DForge
+Facebook >>>  https://www.facebook.com/pages/3DForge/535899169786851
+
+Website  >>> http://www.3dforge.co.za/ 
+You are allowed to use the textures with the 3D model but not extract and resell the texture itself
+One or more textures on these 3D models have been created with images from CGTextures.com 

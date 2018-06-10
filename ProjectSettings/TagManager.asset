@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - team1RpgSpy
+  - spy
+  - team2RpgSpy
+  - team2Rpg
+  - team1Rpg
+  - strategyCanvas
+  - crosshair
+  - firearrow
+  - rpgCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Terrain
+  - Obstacle
+  - Building
+  - Resources
+  - Unit
+  - Border
+  - Hidden
+  - UnitTargetPos
+  - ToBePlaced
+  - Treasure
+  - MinimapUI
+  - HoverHealthBar
+  - MvtTargetObj
+  - AllCams
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
