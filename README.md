@@ -6,21 +6,20 @@ The purpose of the project is to Create a new type of game that is the mix of tw
 
 2-Role Playing Game
 
-for more description visit : https://alaazme.wixsite.com/coatofarms
 
  (Project Logo)
 
  
 # Tools & Practices
 
+Game Site : https://alaazme.wixsite.com/coatofarms
 
 Pivotal Tracker : https://www.pivotaltracker.com/n/projects/2112816
 
 Project Status : **Final Release**
  
-## Please visit our [live application](https://github.com/AlaaZme/DSM-Democratic-Shop-Managment/blob/master/Docs/vvv.apk)
-- Click on Downoad to donwload .apk 
-
+## Please visit our [live application](#)
+- Upload in Progress ...
 
 # Disclaimer
 This project is developed as part of the requirements for a [software engineering course](https://github.com/jce-il/se-class/wiki) at the software engineering department - [Azrieli College of Engineering](http://www.jce.ac.il/), Jerusalem, Israel.
