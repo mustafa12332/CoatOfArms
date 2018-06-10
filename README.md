@@ -1,5 +1,5 @@
 (Image Here)
-# CoatOfArms
+# Coat of Arms
 The purpose of the project is to Create a new type of game that is the mix of two genres of games into one Game, the two genres are:
 
 1-Real Time Strategy
@@ -13,13 +13,10 @@ for more description visit : https://alaazme.wixsite.com/coatofarms
  
 # Tools & Practices
 
-|Category|Status|
-|---|---|--|
-| press the tag for redirection|
-| Version Control System| git & github |
-| Group Chat| [![Join the chat at https://gitter.im/jce-il/project-template](https://badges.gitter.im/jce-il/project-template.svg)](https://gitter.im/jce-il/DSM) |
-| Github Issues | [![GitHub issues](https://img.shields.io/github/issues/AlaaZme/DSM-Democratic-Shop-Managment.svg?style=flat)](https://github.com/AlaaZme/DSM-Democratic-Shop-Managment/issues) |
-| Project Course Status | Final Release |
+
+Pivotal Tracker : **https://www.pivotaltracker.com/n/projects/2112816
+**
+Project Status : **Final Release**
  
 ## Please visit our [live application](https://github.com/AlaaZme/DSM-Democratic-Shop-Managment/blob/master/Docs/vvv.apk)
 - Click on Downoad to donwload .apk 
