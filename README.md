@@ -1,4 +1,4 @@
-(Image Here)
+![Project Logo](https://github.com/mustafa12332/CoatOfArms/blob/master/Images/logo.png)
 # Coat of Arms
 The purpose of the project is to Create a new type of game that is the mix of two genres of games into one Game, the two genres are:
 
@@ -7,7 +7,7 @@ The purpose of the project is to Create a new type of game that is the mix of tw
 2-Role Playing Game
 
 
- ![Project Logo](https://github.com/mustafa12332/CoatOfArms/blob/master/Images/logo.png)
+![Image](https://github.com/mustafa12332/CoatOfArms/blob/master/Images/attack.png)
 
  
 # Tools & Practices
