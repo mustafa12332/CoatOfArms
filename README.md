@@ -18,8 +18,6 @@ Pivotal Tracker : https://www.pivotaltracker.com/n/projects/2112816
 
 Project Status : **Final Release**
  
-## Please visit our [live application](#)
-- Upload in Progress ...
 
 # Disclaimer
 This project is developed as part of the requirements for a **Final Project Course** at the software engineering department - [Azrieli College of Engineering](http://www.jce.ac.il/), Jerusalem, Israel.
